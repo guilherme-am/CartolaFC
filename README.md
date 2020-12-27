@@ -1,6 +1,8 @@
 # CartolaFC
 CartolaFC -  Análise de Dados e Escalação do time da rodada (ano atual: 2020)
 README:
+
+- Link para acessar dataset no Google Colab: https://colab.research.google.com/drive/1XwTy5q9ydThO6yxbqqGJrRZbAxVsbcfz?usp=sharing
 Este dataset tem o propósito de facilitar a escolha da escalação dos jogadores no fantasy game CartolaFC através de cálculos estatísticos de scouts originais do próprio jogo, com inserção de critérios que melhor define um jogador para dada posição conforme a apresentação dos valores dos scouts no apêndice abaixo.
 
 Para gerar a tabela da rodada atual do CartolaFC foi acessado os dados do site:https://www.cartolafcbrasil.com.br/scouts . As tabelas foram geradas em pdf e convertidas para csv. Estas estão disponibilizadas no github através do link[...] e é necessário importá-las para dentro do notebook para iniciar o programa (aqui, utilizei o google colab, mas também pode ser utilizado outros como Jupyter Notebook).
