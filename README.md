@@ -9,7 +9,7 @@ ou
 
 - Este dataset tem o propósito de facilitar a escolha da escalação dos jogadores no fantasy game CartolaFC através de cálculos estatísticos de scouts originais do próprio jogo, com inserção de critérios que melhor define um jogador para dada posição conforme a apresentação dos valores dos scouts no apêndice abaixo.
 
-- Para gerar a tabela da rodada atual do CartolaFC foi acessado os dados do site:https://www.cartolafcbrasil.com.br/scouts . As tabelas foram geradas em pdf e convertidas para csv. Estas estão disponibilizadas no github através do link[...] e é necessário importá-las para dentro do notebook para iniciar o programa (aqui, utilizei o google colab, mas também pode ser utilizado outros como Jupyter Notebook).
+- Para gerar a tabela da rodada atual do CartolaFC foi acessado os dados do site:https://www.cartolafcbrasil.com.br/scouts . As tabelas foram geradas em pdf e convertidas para csv. Estas estão disponibilizadas no github através do link https://github.com/guilherme-am/CartolaFC e é necessário importá-las para dentro do notebook para iniciar o programa (aqui, utilizei o google colab, mas também pode ser utilizado outros como Jupyter Notebook).
 
 - Para bom funcionamento dos cálculos é de boa prática seguir a ordem de execução natural do notebook (os botões 'play' image.png). Em caso de erro pode sempre reiniciar o notebook e voltar às etapas anteriores ou do início.
 
